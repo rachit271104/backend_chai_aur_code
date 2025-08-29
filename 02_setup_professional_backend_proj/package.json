@@ -1,0 +1,21 @@
+{
+  "name": "backendbychai_aur_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachit271104/backend_chai_aur_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachit271104/backend_chai_aur_code/issues"
+  },
+  "homepage": "https://github.com/rachit271104/backend_chai_aur_code#readme"
+}
