@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rachit271104/backend_chai_aur_code/issues"
   },
-  "homepage": "https://github.com/rachit271104/backend_chai_aur_code#readme"
+  "homepage": "https://github.com/rachit271104/backend_chai_aur_code#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
